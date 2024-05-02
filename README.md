@@ -1,6 +1,6 @@
 # FluxFeed: Unveiling Stories Beyond Headlines
 
-![](https://github.com/simranlotey/react-news-app/blob/master/src/components/Images/demo.png)
+![](https://github.com/Vishesh7582/news-app-react/blob/main/Screenshot%202024-05-02%20175916.png)
 
 FluxFeed is powered by the GNews public API and provides users with the latest news articles from around the world. The app offers a user-friendly interface where news articles are organized by categories, allowing users to easily browse and read articles of their interest. 
 

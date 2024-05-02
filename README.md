@@ -1,4 +1,4 @@
-# FluxFeed : Not just a News App
+# FluxFeed: Unveiling Stories Beyond Headlines
 
 ![](https://github.com/simranlotey/react-news-app/blob/master/src/components/Images/demo.png)
 
